@@ -13,8 +13,8 @@ function Header() {
       </div>
       <nav className="headerRight">
         <a href="#home">Home</a>
-        <a href="#approvals">Approvals</a>
-        <a href="#logout">Logout</a>
+
+ 
       </nav>
     </header>
   );
